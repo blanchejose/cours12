@@ -1,5 +1,5 @@
 function alerter(msg){
-    alert(msg);
+    confirm(msg);
 }
 
 alerter("allo les amis");
